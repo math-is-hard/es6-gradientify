@@ -1,6 +1,6 @@
 # Gradientify
 
-A simple jQuery plugin that provides CSS gradient transitions.
+A simple es6 module that provides CSS gradient transitions.
 
 Based on the script by Mike Byrne:
 
