@@ -15,9 +15,9 @@ https://codefog.github.io/jquery-gradientify/
 Here is an example of quick usage:
 
 ```php
-new Gradientify({
-	import Gradientify from 'gradientify'
+import Gradientify from 'gradientify'
 
+new Gradientify({	
 	element: document.querySelectorAll('.gradientify'),
     gradients: [
         { start: [49,76,172], stop: [242,159,191] },
